@@ -386,21 +386,21 @@ mvn spring-boot:run
 
 ## Cadastro de Rover
 
-Inserir print do Swagger.
+Print do Swagger.
 <img width="1440" height="900" alt="evidencia_01_swagger" src="https://github.com/user-attachments/assets/8b434b8d-0665-491a-9837-033c08b37935" />
 
 ---
 
 ## Registro de Telemetria
 
-Inserir print do Swagger.
+Print do Swagger.
 <img width="720" height="852" alt="evidencia_04_telemetria" src="https://github.com/user-attachments/assets/4c1fdf28-8e25-4875-9768-66412e437735" />
 
 ---
 
 ## Geração de Alertas
 
-Inserir print do endpoint:
+Print do endpoint:
 <img width="720" height="852" alt="evidencia_05_alertas" src="https://github.com/user-attachments/assets/34eee87b-a336-4a75-80e1-90ee0f821c35" />
 
 ```http
@@ -411,14 +411,18 @@ GET /alertas
 
 ## Banco PostgreSQL
 
-Inserir prints das tabelas:
+Prints das tabelas:
 
 ```sql
 SELECT * FROM tb_rover;
+<img width="1440" height="852" alt="evidencia_06_postgres_rover" src="https://github.com/user-attachments/assets/7c44a6da-c3a0-43bb-9181-6fa4bd6cb115" />
 
 SELECT * FROM tb_telemetria;
+<img width="1440" height="852" alt="evidencia_07_postgres_telemetria" src="https://github.com/user-attachments/assets/85a30d46-11f1-4e40-8f14-301131671002" />
 
 SELECT * FROM tb_alerta;
+<img width="1440" height="852" alt="evidencia_08_postgres_alerta" src="https://github.com/user-attachments/assets/a79e46b5-6bd4-4b8f-bb97-eebc0a2ed3fb" />
+
 ```
 
 ---
