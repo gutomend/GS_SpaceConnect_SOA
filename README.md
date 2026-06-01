@@ -387,18 +387,21 @@ mvn spring-boot:run
 ## Cadastro de Rover
 
 Inserir print do Swagger.
+<img width="1440" height="900" alt="evidencia_01_swagger" src="https://github.com/user-attachments/assets/8b434b8d-0665-491a-9837-033c08b37935" />
 
 ---
 
 ## Registro de Telemetria
 
 Inserir print do Swagger.
+<img width="720" height="852" alt="evidencia_04_telemetria" src="https://github.com/user-attachments/assets/4c1fdf28-8e25-4875-9768-66412e437735" />
 
 ---
 
 ## Geração de Alertas
 
 Inserir print do endpoint:
+<img width="720" height="852" alt="evidencia_05_alertas" src="https://github.com/user-attachments/assets/34eee87b-a336-4a75-80e1-90ee0f821c35" />
 
 ```http
 GET /alertas
