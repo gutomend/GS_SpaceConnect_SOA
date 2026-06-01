@@ -424,6 +424,15 @@ SELECT * FROM tb_alerta;
 <img width="1440" height="852" alt="evidencia_08_postgres_alerta" src="https://github.com/user-attachments/assets/a79e46b5-6bd4-4b8f-bb97-eebc0a2ed3fb" />
 
 ```
+---
+# 📸 Diagramas
+
+## 1. UML
+<img width="648" height="541" alt="UML" src="https://github.com/user-attachments/assets/409abf5e-766a-4478-95e2-74c28b6dcede" />
+
+---
+## 1. Fluxo
+<img width="667" height="437" alt="Fluxo" src="https://github.com/user-attachments/assets/d2ec4fa6-1e7a-4502-8895-3ef8bb8acea3" />
 
 ---
 
