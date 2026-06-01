@@ -413,17 +413,16 @@ GET /alertas
 
 Prints das tabelas:
 
-```sql
-SELECT * FROM tb_rover.
+-
+##SELECT * FROM tb_rover:
 <img width="1440" height="852" alt="evidencia_06_postgres_rover" src="https://github.com/user-attachments/assets/7c44a6da-c3a0-43bb-9181-6fa4bd6cb115" />
----
+-
 SELECT * FROM tb_telemetria.
 <img width="1440" height="852" alt="evidencia_07_postgres_telemetria" src="https://github.com/user-attachments/assets/85a30d46-11f1-4e40-8f14-301131671002" />
----
+-
 SELECT * FROM tb_alerta.
 <img width="1440" height="852" alt="evidencia_08_postgres_alerta" src="https://github.com/user-attachments/assets/a79e46b5-6bd4-4b8f-bb97-eebc0a2ed3fb" />
 
-```
 ---
 # 📸 Diagramas
 
